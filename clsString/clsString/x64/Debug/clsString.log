@@ -1,0 +1,20 @@
+﻿  clsString.cpp
+C:\Users\Kuraz Tec\source\repos\clsString\clsString\clsStr.h(40,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsString.cpp')
+  
+C:\Users\Kuraz Tec\source\repos\clsString\clsString\clsStr.h(45,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsString.cpp')
+  
+C:\Users\Kuraz Tec\source\repos\clsString\clsString\clsStr.h(57,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsString.cpp')
+  
+C:\Users\Kuraz Tec\source\repos\clsString\clsString\clsStr.h(194,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsString.cpp')
+  
+C:\Users\Kuraz Tec\source\repos\clsString\clsString\clsStr.h(324,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsString.cpp')
+  
+C:\Users\Kuraz Tec\source\repos\clsString\clsString\clsStr.h(372,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsString.cpp')
+  
+  clsString.vcxproj -> C:\Users\Kuraz Tec\source\repos\clsString\x64\Debug\clsString.exe
